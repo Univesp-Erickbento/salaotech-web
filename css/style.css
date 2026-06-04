@@ -1,0 +1,13 @@
+body {
+    transition: 0.3s;
+}
+
+.dark {
+    background-color: #121212;
+    color: white;
+}
+
+.dark .card {
+    background-color: #1e1e1e;
+    color: white;
+}
